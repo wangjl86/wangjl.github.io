@@ -1,21 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/02/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>21世纪的20年代，开篇就是一个悲剧</title>
+    <url>/2020/21century/</url>
+    <content><![CDATA[<p>　　早在 19 年年底，互联网上有就这样一种说法：</p>
+<pre><code>　　2019 年是过去十年最差的一年，也是未来十年最好的一年。</code></pre><p>　　面对这种悲观的言论，我并没有太大感受。</p>
+<p>　　确实如此，19 年各大互联网企业纷纷爆出裁员 or 变相裁员的负面信息。中美贸易战两个大国之间的互相博弈，使整体经济市场非常不景气。罗永浩、王思聪先后被法院列入失信人执行名单，这些网红创业者曾经一度风光无限却也是今不如昔。</p>
+<a id="more"></a>
+<p>　　回首过去一年，我在北京有相对稳定的工作，有我喜欢的女朋友陪在我身边。在这样的舒适环境下，我也开始将自己的生活陷入惰性。</p>
+<p>　　工作上虽然技术方面没有很大的进步，但是对公司营销方面的一些业务有了非常深刻的理解。在多次加班到后半夜的基础上，完成了 双11，开年大促等营销活动的支持，双11 的活动效果更是赢得了领导的高度赞扬。</p>
+<p>　　然而并不是所有事情都能顺心，在这样的工作压力下，我开始变得肥胖油腻，精神和体力也大不如从前。明明也没干什么活，但是下班之后会觉得身心俱疲，什么事情都不愿意做了。慢慢的甚至发现自己有秃顶的趋势……</p>
+<p>　　都说一份努力，一份收获。可是我在公司付出了这么多，得到的却只是领导的一些口头表扬。明明同事、主管对我的工作都很认可，却以“没有转正名额”便打消了我所有的工作积极性。</p>
+<p>　　是的，2019 年不管是整个社会，还是我的个人情况。真的不好过，但是未来还能差到哪儿去呢？</p>
+<p>　　但出乎意料的是，春节期间的新型冠状病毒，给了我当头一棒。所有企业、工厂暂停营业，学校延迟开学。禁止外出到人流密集的地方，预防感染。一时间，全国上下完全没有昔日的活力，大家都猫在家里。城市里弥漫着消毒水的味道，让人感觉十分压抑。</p>
+<p>　　2020 年不好过的却不只是中国：<br>　　　　澳洲山火从去年 9 月开始烧了 5 个月，5 亿多只动物丧生。<br>　　　　菲律宾塔阿尔火山喷发岩浆，学校停课，45 万人撤离，为最糟状况做准备。<br>　　　　非洲东部爆发严重的蝗灾 3600 亿只蝗虫对粮食安全和经济发展构成严重的威胁。<br>　　　　NBA 球星科比坠机身亡，各界人士纷纷表达对科比的哀悼。<br>　　　　……</p>
+<p>　　随之而来的是我的所有面试泡汤，换新工作的计划也要延缓执行。甚至我的女朋友也在这个时候跟我提出分手，至此各奔东西。</p>
+<p>　　目前来看，开头所讲的那句话正在一一应验。疫情也没有明显好转，大家都非常不好过。</p>
+<p>　　也许过段时间情况会有所好转，但肯定仍然会有各种各样的挑战会随之而来。</p>
+<p>　　<strong>我坚信，每一种挫折或不利的突变，是带着同样或较大有利的种子。</strong></p>
 ]]></content>
+      <categories>
+        <category>闲言碎语</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2019/about/</url>
+    <content><![CDATA[<blockquote>
+<p>A Coder, live in BeiJing, China.</p>
+</blockquote>
+<p>姓名：王金梁<br>家乡：开封<br>现居：北京<br>GitHub: <a href="https://github.com/wangjl86" target="_blank" rel="noopener">wangjl86</a><br>QQ: <a href="http://wpa.qq.com/msgrd?v=3&uin=897702141&site=qq&menu=yes" target="_blank" rel="noopener">897702141</a><br>Email: <a href="mailto:wangjl86@foxmail.com">wangjl86@foxmail.com</a></p>
+<a id="more"></a>
+
+<img src="https://i.loli.net/2020/02/13/YpmrHkt9NMdycDL.png" alt="avatar" width="300" style="border-radius:50%"/>]]></content>
   </entry>
 </search>
